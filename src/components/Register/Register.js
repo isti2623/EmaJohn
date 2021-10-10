@@ -6,7 +6,7 @@ const Register = () => {
         <div className='login-form'>
             <div>
                 <h2>Register:Create Account</h2>
-                <form onSubmit="">
+                <form>
                     <input type="email" placeholder='Your Email' />
                     <br />
                     <input type="password" name="" id="" placeholder='Password' />
